@@ -1,0 +1,144 @@
+ 1480  cd Desktop/
+ 1481  cd Umuzi/
+ 1482  ls
+ 1483  cd git-basic-exercises/
+ 1484  ls
+ 1485  git log
+ 1486  git branch
+ 1487  git checkout main
+ 1488  git checkout master
+ 1489  git branch
+ 1490  git checkout 0110a512243e17d9a89b352bdd9de0a971944c07
+ 1491  cat README.md 
+ 1492  git checkout master
+ 1493  cat README.md 
+ 1494  git checkout main
+ 1495  git checkout -b milkshake-flavours
+ 1496  git branch -a
+ 1497  git branch
+ 1498  nano milkshakes.md
+ 1499  cat milkshakes.md 
+ 1500  git status
+ 1501  git add milkshakes.md 
+ 1502  git status
+ 1503  git commit -m "added initial flavours"
+ 1504  git log
+ 1505  git checkout main
+ 1506  git checkout master
+ 1507  git log
+ 1508  git checkout -b history
+ 1509  git log
+ 1510  git branch
+ 1511  history > history.text
+ 1512  ls
+ 1513  cat history.text 
+ 1514  nano history.text 
+ 1515  history
+ 1516  ls
+ 1517  git branch
+ 1518  cat history.text 
+ 1519  git status
+ 1520  git add history.text 
+ 1521  git commit -m "added history"
+ 1522  git checkout milkshake-flavours 
+ 1523  git log
+ 1524  git checkout history 
+ 1525  git log
+ 1526  git checkout master
+ 1527  git log
+ 1528  git branch
+ 1529  juuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu
+ 1530  ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
+ 1531  clear
+ 1532  git branch
+ 1533  ls
+ 1534  git checkout history 
+ 1535  ls
+ 1536  git log
+ 1537  git checkout milkshake-flavours 
+ 1538  git log
+ 1539  nano README.md 
+ 1540  git status
+ 1541  git add README.md 
+ 1542  git commit -m "random readme changes"
+ 1543  git checkout history 
+ 1544  echo "booya" > README.md 
+ 1545  git add README.md 
+ 1546  git commit -m "rewrote readme"
+ 1547  git checkout master 
+ 1548  ls
+ 1549  git log
+ 1550  git checkout milkshake-flavours 
+ 1551  ls
+ 1552  git log
+ 1553  git checkout history 
+ 1554  ls
+ 1555  git lot
+ 1556  git log
+ 1557  git checkout master 
+ 1558  git merge milkshake-flavours 
+ 1559  ls
+ 1560  git log
+ 1561  git merge history 
+ 1562  git log
+ 1563  cd ..
+ 1564  ls
+ 1565  rm -f git-basic-exercises/
+ 1566  rm -d git-basic-exercises/
+ 1567  rm -r git-basic-exercises/
+ 1568  Y
+ 1569  ls
+ 1570  mkdir git-basic-exercises
+ 1571  cd git-basic-exercises/
+ 1572  ls
+ 1573  git init
+ 1574  ls -a
+ 1575  git status
+ 1576  git log
+ 1577  touch README.md
+ 1578  git status
+ 1579  git log
+ 1580  git add README.md 
+ 1581  git status
+ 1582  git log
+ 1583  git reset README.md
+ 1584  git status
+ 1585  git add README.md 
+ 1586  git status
+ 1587  git commit -m "initial commit"
+ 1588  git log
+ 1589  nano README.md 
+ 1590  cat README.md 
+ 1591  gitstatus
+ 1592  git status
+ 1593  git add README.md 
+ 1594  git status
+ 1595  git commit -m "second commit"
+ 1596  nano README.md 
+ 1597  git status
+ 1598  git add README.md 
+ 1599  git status
+ 1600  git commit -m "third commit"
+ 1601  git log
+ 1602  git checkout 307f64fc9073b7fe300e61df155e9f7b1e15efc2
+ 1603  cat README.md 
+ 1604  git checkout master
+ 1605  cat README.md 
+ 1606  git branch
+ 1607  git branch milkshake-flavours
+ 1608  git branch
+ 1609  git checkout milkshake-flavours 
+ 1610  git branch
+ 1611  nano milkshakes.md
+ 1612  git status
+ 1613  git add milkshakes.md 
+ 1614  git commit -m "added initial flavours"
+ 1615  git log
+ 1616  checkout master
+ 1617  git checkout master
+ 1618  git log
+ 1619  git branch
+ 1620  git checkout -b history
+ 1621  git log
+ 1622  git branch
+ 1623  history > history.txt
